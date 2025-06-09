@@ -73,5 +73,3 @@ Bu proje açık kaynaklıdır ve [MIT Lisansı](LICENSE) altında kullanılabili
 Abdullah Topal
 
 ---
-
-*Son güncelleme: 2024*
