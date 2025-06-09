@@ -13,7 +13,7 @@ Bu web uygulaması, Rick and Morty TV dizisindeki karakterler hakkında bilgi g�
 
 ## Demo
 
-Uygulamanın canlı demosunu burada görebilirsiniz: [https://rick-and-morty-app-six-blush.vercel.app/](https://rick-and-morty-app-six-blush.vercel.app/)
+Uygulamanın canlı demosunu burada görebilirsiniz: [https://rick-and-morty-app-six-blush.vercel.app](https://rick-and-morty-app-six-blush.vercel.app)
 
 ## Kullanılan Teknolojiler
 
@@ -71,3 +71,7 @@ Bu proje açık kaynaklıdır ve [MIT Lisansı](LICENSE) altında kullanılabili
 ## Geliştirici
 
 Abdullah Topal
+
+---
+
+*Son güncelleme: 2024*
